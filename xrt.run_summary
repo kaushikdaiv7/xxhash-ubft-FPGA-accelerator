@@ -1,0 +1,46 @@
+{
+    "schema_version":
+    {
+        "major": "1",
+        "minor": "3",
+        "patch": "0"
+    },
+    "generation":
+    {
+        "this_file": "\/home\/kdaiv001\/fpga-ubft-xxhash-testbed\/xrt.run_summary",
+        "source": "vp",
+        "PID": "7608",
+        "timestamp": "1708833361309",
+        "flags":
+        [
+            ""
+        ]
+    },
+    "files":
+    [
+        {
+            "name": "opencl_trace.csv",
+            "type": "VP_TRACE"
+        },
+        {
+            "name": "xilinx_u250_gen3x16_xdma_4_1_202210_1-0-krnl.link.wdb",
+            "type": "WAVEFORM_DATABASE"
+        },
+        {
+            "name": "xilinx_u250_gen3x16_xdma_4_1_202210_1-0-krnl.link.wcfg",
+            "type": "WAVEFORM_CONFIGURATION"
+        },
+        {
+            "name": "profile_kernels.csv",
+            "type": "KERNEL_PROFILE"
+        },
+        {
+            "name": "timeline_kernels.csv",
+            "type": "KERNEL_TRACE"
+        },
+        {
+            "name": "summary.csv",
+            "type": "PROFILE_SUMMARY"
+        }
+    ]
+}
